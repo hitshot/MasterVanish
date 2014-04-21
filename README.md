@@ -1,0 +1,4 @@
+MasterVanish
+============
+
+My MasterVanish plugin
